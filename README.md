@@ -12,6 +12,6 @@ I intend to enchance the UI of the current app as it is very minimalistic at the
 
 # Installation
 
-1- git clone repo
-2- Replace my docker id in all the .yml files with your own
-3- Skaffold dev
+1- git clone repo<br>
+2- Replace my docker id in all the .yml files with your own<br>
+3- Skaffold dev<br>
